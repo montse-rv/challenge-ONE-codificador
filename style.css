@@ -155,7 +155,7 @@ body {
 
 .mensaje {
     background: hsla(240, 100%, 75%, 0.2);
-    background-image: url();
+    background-image: url(imagenes/muñeco.png);
     background-size: contain;
     background-repeat: no-repeat;
     border: none;
